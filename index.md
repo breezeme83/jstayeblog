@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 今、情热が岚になって
+title: blog , record , read
 showtag:
 - ICPC模板
 ---
