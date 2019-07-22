@@ -1,7 +1,7 @@
-title: wu-kan
-url: http://wu-kan.github.io
+title: sora
+url: https://breezeme83.github.io/jstayeblog/
 baseurl: '' # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/public`前也要加，即`/your_baseurl/public`。这一项结尾不要有'/'
-author: WuK
+author: sora
 
 permalink: /posts/:categories/:title # 博文目录
 
@@ -110,7 +110,7 @@ script: # 需要在正文前调用的脚本
 - src: //cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js # jQuery
 - src: //cdn.jsdelivr.net/npm/ribbon.js/dist/ribbon.min.js # 彩带背景
 - src: //cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget/autoload.js # live2d
-- src: //zz.bdstatic.com/linksubmit/push.js # 百度推送
+- src: //cdn.bdstatic.com/linksubmit/push.js # 百度推送
 
 mermaid: # https://github.com/knsv/mermaid
   enable: true
